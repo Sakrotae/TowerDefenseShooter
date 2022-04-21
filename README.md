@@ -1,6 +1,6 @@
 # Tower Defense Shooter
 
-A 3D Open-GL game where you where you defend a tower from flying boxes
+A 3D Open-GL game where you have to defend a tower from flying boxes
 
 # Controls
 
